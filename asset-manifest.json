@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kuratted-web-app/static/css/main.93a0497a.css",
+    "main.js": "/kuratted-web-app/static/js/main.c1e9bfc0.js",
+    "index.html": "/kuratted-web-app/index.html",
+    "main.93a0497a.css.map": "/kuratted-web-app/static/css/main.93a0497a.css.map",
+    "main.c1e9bfc0.js.map": "/kuratted-web-app/static/js/main.c1e9bfc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a0497a.css",
+    "static/js/main.c1e9bfc0.js"
+  ]
+}
